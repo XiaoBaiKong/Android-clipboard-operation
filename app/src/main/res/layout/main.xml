@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/Text_content"
+        android:layout_height="wrap_content"
+        android:text="编辑框" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:onClick="copy_onClick"
+        android:id="@+id/copy"
+        android:layout_height="wrap_content"
+        android:text="复制" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:onClick="paste_onClick"
+        android:id="@+id/paste"
+        android:layout_height="wrap_content"
+        android:text="粘贴" />
+
+</LinearLayout>

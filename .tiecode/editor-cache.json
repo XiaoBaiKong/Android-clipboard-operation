@@ -1,0 +1,21 @@
+{
+   "non_closed": [
+      {
+         "line": 41,
+         "column": 5,
+         "scrollX": 43,
+         "scrollY": 0,
+         "textSize": 44.00797653198242,
+         "uri": "file:\/storage\/emulated\/0\/Android\/data\/com.tiecode.develop\/files\/projects\/Android剪切板操作\/app\/src\/main\/java\/com\/user\/app\/MainActivity.java"
+      },
+      {
+         "line": 0,
+         "column": 0,
+         "scrollX": 0,
+         "scrollY": 0,
+         "textSize": 45.000450134277344,
+         "uri": "file:\/storage\/emulated\/0\/Android\/data\/com.tiecode.develop\/files\/projects\/Android剪切板操作\/app\/src\/main\/res\/layout\/main.xml"
+      }
+   ],
+   "last_uri": "file:\/storage\/emulated\/0\/Android\/data\/com.tiecode.develop\/files\/projects\/Android剪切板操作\/app\/src\/main\/java\/com\/user\/app\/MainActivity.java"
+}
