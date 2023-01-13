@@ -11,6 +11,7 @@ import android.text.TextUtils;
 
 public class MainActivity extends Activity 
 {
+    //声明组件
     private EditText Text_content;
     private Button copy;
     private Button paste;
@@ -20,7 +21,7 @@ public class MainActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        
+        //获取组件
         Text_content = (EditText) findViewById(R.id.Text_content);
         copy = (Button) findViewById(R.id.copy);
         paste = (Button) findViewById(R.id.paste);
